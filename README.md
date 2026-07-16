@@ -15,3 +15,9 @@ Interactive learning decks for Rewst customer education. Click a link below to o
 3. Commit and push. GitHub Pages picks up the change automatically (takes a minute or two to go live).
 
 Links open directly in the browser as interactive pages — no download, no GitHub sign-in required.
+
+## Docs
+
+| Doc | Link |
+|---|---|
+| Quiz question quality standards | [Open](https://github.com/CluckUniversity/rewst-education/blob/main/docs/quiz-question-quality.md) |
